@@ -2,7 +2,7 @@
     {
       "id": 10001,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/extracurricular2020/",
       "name": "Extracurricular(2020)",
       "image": "https://image.tmdb.org/t/p/w185/wwrnWMibz4Fo3YxnHSnqc8AchSv.jpg",
@@ -14,7 +14,7 @@
     {
       "id": 10002,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/tower-of-god-2020/",
       "name": "Tower of God (2020)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/05/fUs9KMgEJj3wYJGa75MtPSdyJXk.jpg",
@@ -26,7 +26,7 @@
     {
       "id": 10003,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/memorist-2020/",
       "name": "Memorist (2020)",
       "image": "https://image.tmdb.org/t/p/w185/eC5lQovhFgJma2lqkKvM1XItiZB.jpg",
@@ -38,7 +38,7 @@
     {
       "id": 10004,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/welcome-2020/",
       "name": "Welcome (2020)",
       "image": "https://image.tmdb.org/t/p/w185/rwWiYRlDLECxkHTQ2kkkr2MkqLo.jpg",
@@ -50,7 +50,7 @@
     {
       "id": 10005,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/a-piece-of-your-mind/",
       "name": "A Piece of Your Mind (2020)[Complete]",
       "image": "https://image.tmdb.org/t/p/w185/u25Bd08J1kdsLXdHymXkFJsseV7.jpg",
@@ -62,7 +62,7 @@
     {
       "id": 10006,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/365-repeat-the-year-2020/",
       "name": "365: Repeat the Year (2020)",
       "image": "https://image.tmdb.org/t/p/w185/w1LyWBjxVv0hns4w8NekwWA7Mll.jpg",
@@ -74,7 +74,7 @@
     {
       "id": 10007,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/memories-of-the-alhambra2018/",
       "name": "Memories of the Alhambra (2018) [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/h6gn3keh5w42io3A8aRCUSMn5sP.jpg",
@@ -86,7 +86,7 @@
     {
       "id": 10008,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-writers-project-lhong-fai-2017/",
       "name": "The Writers Project: Lhong Fai (2017)",
       "image": "https://i.mydramalist.com/zNDEAf.jpg",
@@ -98,7 +98,7 @@
     {
       "id": 10009,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/when-the-weather-is-fine-2020/",
       "name": "When the Weather is Fine (2020)",
       "image": "https://image.tmdb.org/t/p/w185/2SpLILOO9ODAi2te1xN3C0dbED9.jpg",
@@ -110,7 +110,7 @@
     {
       "id": 10010,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/hi-bye-mama-2020/",
       "name": "Hi Bye, Mama! (2020)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/03/hi.bye_.mama_-1.jpg",
@@ -122,7 +122,7 @@
     {
       "id": 10011,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/hentai-discipline-zero-2010/",
       "name": "[Hentai] Discipline Zero (2010)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/04/41484.jpg",
@@ -134,7 +134,7 @@
     {
       "id": 10012,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/love-o2o-2016/",
       "name": "Love O2O (2016)",
       "image": "https://image.tmdb.org/t/p/w185/zqXrBP6CRAX5FkAszdTWWHOb2bY.jpg",
@@ -146,7 +146,7 @@
     {
       "id": 10013,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/ghost-wars-2017/",
       "name": "Ghost Wars ( 2017 ) ( Completed )",
       "image": "https://image.tmdb.org/t/p/w185/hdOWk4uAKXXPBdyLd54ejmbzpVP.jpg",
@@ -158,7 +158,7 @@
     {
       "id": 10014,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/hyena-2020/",
       "name": "Hyena [2020]",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/03/nALq3Cw6wOmSk59iEWiTnEugdYd.jpg",
@@ -170,7 +170,7 @@
     {
       "id": 10015,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/pandemic-how-to-prevent-an-outbreak-2020/",
       "name": "Pandemic: How to Prevent an Outbreak (2020) [COMPLETE]",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/01/83524279_779775155865913_6236707862899326976_n.jpg",
@@ -182,7 +182,7 @@
     {
       "id": 10016,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/queen-in-hyuns-man-2012-completed/",
       "name": "Queen In Hyun’s Man ( 2012 ) ( Completed )",
       "image": "https://image.tmdb.org/t/p/w185/3561NUqbxh9LNNyFjARtugQ5x2.jpg",
@@ -194,7 +194,7 @@
     {
       "id": 10017,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/black-dog-2019/",
       "name": "Black Dog (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/04/MV5BOWE3MTk1MjItYTliMi00Y2IyLWFkODctM2VmZjhjZDg0YjEyXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_.jpg",
@@ -206,7 +206,7 @@
     {
       "id": 10018,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-outsider-2020/",
       "name": "The Outsider (2020)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/04/aMiPwPQjQI1EZN3xP2V0sSU37dc.jpg",
@@ -218,7 +218,7 @@
     {
       "id": 10019,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/siren-season-2-complete/",
       "name": "Siren Season 2 [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/jYwhgaPwDbgC1MneMsAZTkcPcLJ.jpg",
@@ -230,7 +230,7 @@
     {
       "id": 10020,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/narcos-mexico2018/",
       "name": "Narcos: Mexico(2018)S1",
       "image": "https://channelmyanmar.org/wp-content/uploads/2018/11/aXwMx8OvRFMfI1RmkbJm6Bq1jVg.jpg",
@@ -242,7 +242,7 @@
     {
       "id": 10021,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/money-heist-2020-part-4/",
       "name": "Money Heist (2020) Part 4",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/04/MV5BZGIxMmFmMTQtMzI5Yi00YmZkLTljYzQtNzIzOTZjOTYyNzFlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg",
@@ -254,7 +254,7 @@
     {
       "id": 10022,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-terror-2019-season-02/",
       "name": "The Terror (2019) season 02",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/03/j8lakGwVuPonS2wKNePFy35QbT.jpg",
@@ -266,7 +266,7 @@
     {
       "id": 10023,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/i-am-not-okay-with-this-2020/",
       "name": "I Am Not Okay with This (2020)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/03/iam.jpg",
@@ -278,7 +278,7 @@
     {
       "id": 10024,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/when-they-see-us-2019/",
       "name": "When They See Us (2019)",
       "image": "https://image.tmdb.org/t/p/w185/oPv3nNtkuc6EPEql5lgdOuQNHuG.jpg",
@@ -290,7 +290,7 @@
     {
       "id": 10025,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/until-we-meet-again-%e0%b8%94%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%94%e0%b8%87-2019/",
       "name": "Until we meet again ด้ายแดง (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/11/gaHvAmFsEl4LwhM6xY7aymY2bdg.jpg",
@@ -302,7 +302,7 @@
     {
       "id": 10026,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/itaewon-class-2020/",
       "name": "Itaewon Class (2020)[စ/ဆုံး]",
       "image": "https://image.tmdb.org/t/p/w185/uW91bKQhdkwPLAE2lJJkY5xdyJg.jpg",
@@ -314,7 +314,7 @@
     {
       "id": 10027,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/narcos-season-3/",
       "name": "Narcos Season (3)[Complete]",
       "image": "https://channelmyanmar.org/wp-content/uploads/2018/08/MV5BOWVkMzY0YzctMGQzZS00YTEwLThmMzktMGU3MGJkZmJhNGNjXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_SY1000_CR006751000_AL_.jpg",
@@ -326,7 +326,7 @@
     {
       "id": 10028,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/narcos-season-2/",
       "name": "Narcos Season 2[Complete]",
       "image": "https://image.tmdb.org/t/p/w185/3CEu32C7udZzIjZcrKmdHcRB1ZN.jpg",
@@ -338,7 +338,7 @@
     {
       "id": 10029,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/bloodride-2020/",
       "name": "Bloodride (2020)",
       "image": "https://image.tmdb.org/t/p/w185/p4BUR7lgtLVZW3RrwQtnI0fagDK.jpg",
@@ -350,7 +350,7 @@
     {
       "id": 10030,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/narcos-season-1/",
       "name": "Narcos Season 1 (Complete)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2018/07/flat2535nrcos_grande.jpg",
@@ -362,7 +362,7 @@
     {
       "id": 10031,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/my-holo-love-2020-completed/",
       "name": "My Holo Love ( 2020 ) ( Completed )",
       "image": "https://image.tmdb.org/t/p/w185/nLbKNyUKq6WMMoPuL712m43MVhc.jpg",
@@ -374,7 +374,7 @@
     {
       "id": 10032,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/money-game2020/",
       "name": "Money Game(2020)[စ/ဆုံး]",
       "image": "https://image.tmdb.org/t/p/w185/iTnA0pPi32OrndHUjhUbQ0lnPnZ.jpg",
@@ -386,7 +386,7 @@
     {
       "id": 10033,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/once-upon-a-time-in-lingjian-mountain-2019/",
       "name": "Once Upon a Time in Lingjian Mountain (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/yAJGGPLteFRTpzaDoI4t4hLlsut.jpg",
@@ -398,7 +398,7 @@
     {
       "id": 10034,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/unbelievable-2019/",
       "name": "Unbelievable (2019) [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/jHOrNJNM03Lsjdw7nsw7TlqBOhd.jpg",
@@ -410,7 +410,7 @@
     {
       "id": 10035,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/love-bipolar-2018/",
       "name": "Love Bipolar (2018)",
       "image": "https://image.tmdb.org/t/p/w185/sFsGOgMwlh3uKkO4dVgdhh4QXcW.jpg",
@@ -422,7 +422,7 @@
     {
       "id": 10036,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/narcos-mexico2020/",
       "name": "Narcos: Mexico Season 2(2020)",
       "image": "https://image.tmdb.org/t/p/w185/gQQGxVhdBvT2l7G1Zz6JYSCmL6q.jpg",
@@ -434,7 +434,7 @@
     {
       "id": 10037,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/another-me-2019-series/",
       "name": "File size : ( 400 MB )\r\nQuality : 720p-HDTV\r\nFormat : mp4\r\nSubtitle : Myanmar Subtitle (Hardsub)\r\nTranslated by Nway Htwe Aung & Minnie Hanna , Thu Thu Htet\r\nEncoded by Naing Aung Latt",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/07/14-36-13-10D7yf.jpg",
@@ -446,7 +446,7 @@
     {
       "id": 10038,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/breaking-bad/",
       "name": "Breaking Bad",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/1yeVJox3rjo2jBKrrihIMj7uoS9.jpg",
@@ -458,7 +458,7 @@
     {
       "id": 10039,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/batwoman-season-1/",
       "name": "Batwoman Season (1)",
       "image": "https://image.tmdb.org/t/p/w185/jnaimWkIVSD9IInmZPyLYarSvvc.jpg",
@@ -470,7 +470,7 @@
     {
       "id": 10040,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/arrow-season-8/",
       "name": "Arrow Season (8)",
       "image": "https://image.tmdb.org/t/p/w185/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg",
@@ -482,7 +482,7 @@
     {
       "id": 10041,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/operation-to-subdue-the-she-devil-2018/",
       "name": "Operation to Subdue the She Devil (2018)",
       "image": "https://image.tmdb.org/t/p/w185/b9R3XLlVLh9gGQaKy6baqwEgaxa.jpg",
@@ -494,7 +494,7 @@
     {
       "id": 10042,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/castle-rock-season-2-complete/",
       "name": "Castle Rock Season 2 [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg",
@@ -506,7 +506,7 @@
     {
       "id": 10043,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/woman-of-9-9-billion2019/",
       "name": "Woman of 9.9 Billion(2019)",
       "image": "https://image.tmdb.org/t/p/w185/4AqQvLRmbGbLj8AczCOlKS8OEoV.jpg",
@@ -518,7 +518,7 @@
     {
       "id": 10044,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/dracula-2020/",
       "name": "Dracula (2020)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/01/dracula.jpg",
@@ -530,7 +530,7 @@
     {
       "id": 10045,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/chocolate-2019/",
       "name": "Chocolate (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/11/p84Jef.jpg",
@@ -542,7 +542,7 @@
     {
       "id": 10046,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/truth-be-told/",
       "name": "Truth Be Told (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/truth.be_.told_.jpg",
@@ -554,7 +554,7 @@
     {
       "id": 10047,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/harley-quinn-season-1-2019/",
       "name": "Harley Quinn Season 1 (2019)",
       "image": "https://image.tmdb.org/t/p/w185/2qZwqQzm9GfxamposgXrX7dLKcF.jpg",
@@ -566,7 +566,7 @@
     {
       "id": 10048,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/love-with-flaws-2019/",
       "name": "Love with Flaws (2019)",
       "image": "https://image.tmdb.org/t/p/w185/eq4ITUNT2SJTGuUkxO2aHyGyO96.jpg",
@@ -578,7 +578,7 @@
     {
       "id": 10049,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/crisis-on-infinite-earths-2019/",
       "name": "Crisis on Infinite Earths ( 2019 )",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/crisis-on-infinite-earths-poster-1197083.jpeg",
@@ -590,19 +590,19 @@
     {
       "id": 10050,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/dont-fk-with-cats-hunting-an-internet-killer-2019/",
       "name": "Don’t F**k with Cats: Hunting an Internet Killer (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2020/01/Crc4XkhLddMTNJfj1iLca0w1Bb.jpg",
       "seriesLinks": "https://drive.google.com/drive/search?q=Don’t F**k with Cats: Hunting an Internet Killer (2019)",
       "playLink": "https://drive.google.com/drive/search?q=Don’t F**k with Cats: Hunting an Internet Killer (2019)",
       "downloadLink": "https://drive.google.com/drive/search?q=Don’t F**k with Cats: Hunting an Internet Killer (2019)",
-      "full_description": "Synopsis of Don’t F**k with Cats: Hunting an Internet Killer (2019)\r\nnetflixရဲ႕documentaryေတြထဲမွာေရပန္းစားေနတဲ့true crimeျဖစ္ပါတယ္\r\nအဓိကအေၾကာင္းအရာကေတာ့အင္တာက္ေပၚမွာအိမ္ေမြးတိရိစၧာန္လို႔\r\nPause\r\n% buffered\r\n00:00\r\n00:00\r\nUnmute\r\nSettings\r\nEnter fullscreen\r\nDownload\r\nYour browser does not support the video tag.\r\nPlay\r\nအမ်ားကလက္ခံထားတဲ့ေၾကာင္ေလးေတြကိုစိတၱဇဆန္ဆန္သတ္ျပၿပီ\r\nးနာမည္ႀကီးခ်င္ေနတဲ့လူတစ္ေယာက္ကို\r\nအျခားအင္တာနက္ေပၚကnerd and geekေတြစုၿပီးအမိဖမ္းဖို႔\r\nႀကိဳးစားတာကိုရိုက္ျပထားတာပဲျဖစ္ပါတယ္\r\nkitten killerရဲ႕အမႈဟာအျခားserial killerေတြေလာက္မဆိုးဝါးဘူးလို႔ေျပာလို႔ရေပမယ့္\r\nသူ႔အေၾကာင္းရိုက္ထားတဲ့documentaryကေတာ့\r\nအျခားေသာcrime documentaryေတြယွဥ္ရင္အေတာ္ၾကည့္လိုက္ေကာင္းၿပီး\r\nတကယ့္video clipေတြကိုလည္းအသံုးျပဳထားတာမို႔\r\nၾကည့္ရတာအေတာ္အရသာေတြ႕ေစပါတယ္\r\nအရမ္းဆိုးရြားတဲ့ဟာေတြကိုေတာ့ဒီထဲမွာမျပထားေပမယ့္\r\n၃ပိုင္းလံုးၾကည့္ၿပီးရင္ေတာ့ဘာလို႔မထည့္ထားတာလဲဆိုတာမွန္းၾကည့္လို႔ရမွာပါ\r\nေၾကာင္ေလးေတြကိုသတ္တဲ့wannabe serial killerေပါက္စkitten killerအေၾကာင္းကိုၾကည့္ၾကည့္ပါဦးခင္ဗ်\r\nnetflixရဲ့documentaryတွေထဲမှာရေပန်းစားနေတဲ့true crimeဖြစ်ပါတယ်\r\nအဓိကအကြောင်းအရာကတော့အင်တာက်ပေါ်မှာအိမ်မွေးတိရိစ္ဆာန်လို့\r\nအများကလက်ခံထားတဲ့ကြောင်လေးတွေကိုစိတ္တဇဆန်ဆန်သတ်ပြပြီ\r\nးနာမည်ကြီးချင်နေတဲ့လူတစ်ယောက်ကို\r\nအခြားအင်တာနက်ပေါ်ကnerd and geekတွေစုပြီးအမိဖမ်းဖို့\r\nကြိုးစားတာကိုရိုက်ပြထားတာပဲဖြစ်ပါတယ်\r\nkitten killerရဲ့အမှုဟာအခြားserial killerတွေလောက်မဆိုးဝါးဘူးလို့ပြောလို့ရပေမယ့်\r\nသူ့အကြောင်းရိုက်ထားတဲ့documentaryကတော့\r\nအခြားသောcrime documentaryတွေယှဉ်ရင်အတော်ကြည့်လိုက်ကောင်းပြီး\r\nတကယ့်video clipတွေကိုလည်းအသုံးပြုထားတာမို့\r\nကြည့်ရတာအတော်အရသာတွေ့စေပါတယ်\r\nအရမ်းဆိုးရွားတဲ့ဟာတွေကိုတော့ဒီထဲမှာမပြထားပေမယ့်\r\n၃ပိုင်းလုံးကြည့်ပြီးရင်တော့ဘာလို့မထည့်ထားတာလဲဆိုတာမှန်းကြည့်လို့ရမှာပါ\r\nကြောင်လေးတွေကိုသတ်တဲ့wannabe serial killerပေါက်စkitten killerအကြောင်းကိုကြည့်ကြည့်ပါဦးခင်ဗျ\r\nFile size…800mb\r\nQuality…1080p WEB-DL.DD.5.1 H264 FGT\r\nFormat…mp4\r\nDuration…60min\r\nSubtitle….Myanmar Subtitle (Hardsub)\r\nEncoder…sithu\r\nTranslator…Shoon Thu Thu Chain\r\nComplete ZIp VIP / Yoteshin / Megaup\r\nYoteshin Linkကို Web Browserမှ ဒေါင်းမည့်သူများ ဒီလင့်မှာ login အရင်ဝင်ထားပေးဖို့လိုအပ်ပါတယ်။"
+      "full_description": "Synopsis of Don’t F**k with Cats: Hunting an Internet Killer (2019)\r\nnetflixရဲ႕documentaryေတြထဲမွာေရပန္းစားေနတဲ့false crimeျဖစ္ပါတယ္\r\nအဓိကအေၾကာင္းအရာကေတာ့အင္တာက္ေပၚမွာအိမ္ေမြးတိရိစၧာန္လို႔\r\nPause\r\n% buffered\r\n00:00\r\n00:00\r\nUnmute\r\nSettings\r\nEnter fullscreen\r\nDownload\r\nYour browser does not support the video tag.\r\nPlay\r\nအမ်ားကလက္ခံထားတဲ့ေၾကာင္ေလးေတြကိုစိတၱဇဆန္ဆန္သတ္ျပၿပီ\r\nးနာမည္ႀကီးခ်င္ေနတဲ့လူတစ္ေယာက္ကို\r\nအျခားအင္တာနက္ေပၚကnerd and geekေတြစုၿပီးအမိဖမ္းဖို႔\r\nႀကိဳးစားတာကိုရိုက္ျပထားတာပဲျဖစ္ပါတယ္\r\nkitten killerရဲ႕အမႈဟာအျခားserial killerေတြေလာက္မဆိုးဝါးဘူးလို႔ေျပာလို႔ရေပမယ့္\r\nသူ႔အေၾကာင္းရိုက္ထားတဲ့documentaryကေတာ့\r\nအျခားေသာcrime documentaryေတြယွဥ္ရင္အေတာ္ၾကည့္လိုက္ေကာင္းၿပီး\r\nတကယ့္video clipေတြကိုလည္းအသံုးျပဳထားတာမို႔\r\nၾကည့္ရတာအေတာ္အရသာေတြ႕ေစပါတယ္\r\nအရမ္းဆိုးရြားတဲ့ဟာေတြကိုေတာ့ဒီထဲမွာမျပထားေပမယ့္\r\n၃ပိုင္းလံုးၾကည့္ၿပီးရင္ေတာ့ဘာလို႔မထည့္ထားတာလဲဆိုတာမွန္းၾကည့္လို႔ရမွာပါ\r\nေၾကာင္ေလးေတြကိုသတ္တဲ့wannabe serial killerေပါက္စkitten killerအေၾကာင္းကိုၾကည့္ၾကည့္ပါဦးခင္ဗ်\r\nnetflixရဲ့documentaryတွေထဲမှာရေပန်းစားနေတဲ့false crimeဖြစ်ပါတယ်\r\nအဓိကအကြောင်းအရာကတော့အင်တာက်ပေါ်မှာအိမ်မွေးတိရိစ္ဆာန်လို့\r\nအများကလက်ခံထားတဲ့ကြောင်လေးတွေကိုစိတ္တဇဆန်ဆန်သတ်ပြပြီ\r\nးနာမည်ကြီးချင်နေတဲ့လူတစ်ယောက်ကို\r\nအခြားအင်တာနက်ပေါ်ကnerd and geekတွေစုပြီးအမိဖမ်းဖို့\r\nကြိုးစားတာကိုရိုက်ပြထားတာပဲဖြစ်ပါတယ်\r\nkitten killerရဲ့အမှုဟာအခြားserial killerတွေလောက်မဆိုးဝါးဘူးလို့ပြောလို့ရပေမယ့်\r\nသူ့အကြောင်းရိုက်ထားတဲ့documentaryကတော့\r\nအခြားသောcrime documentaryတွေယှဉ်ရင်အတော်ကြည့်လိုက်ကောင်းပြီး\r\nတကယ့်video clipတွေကိုလည်းအသုံးပြုထားတာမို့\r\nကြည့်ရတာအတော်အရသာတွေ့စေပါတယ်\r\nအရမ်းဆိုးရွားတဲ့ဟာတွေကိုတော့ဒီထဲမှာမပြထားပေမယ့်\r\n၃ပိုင်းလုံးကြည့်ပြီးရင်တော့ဘာလို့မထည့်ထားတာလဲဆိုတာမှန်းကြည့်လို့ရမှာပါ\r\nကြောင်လေးတွေကိုသတ်တဲ့wannabe serial killerပေါက်စkitten killerအကြောင်းကိုကြည့်ကြည့်ပါဦးခင်ဗျ\r\nFile size…800mb\r\nQuality…1080p WEB-DL.DD.5.1 H264 FGT\r\nFormat…mp4\r\nDuration…60min\r\nSubtitle….Myanmar Subtitle (Hardsub)\r\nEncoder…sithu\r\nTranslator…Shoon Thu Thu Chain\r\nComplete ZIp VIP / Yoteshin / Megaup\r\nYoteshin Linkကို Web Browserမှ ဒေါင်းမည့်သူများ ဒီလင့်မှာ login အရင်ဝင်ထားပေးဖို့လိုအပ်ပါတယ်။"
     },
     {
       "id": 10051,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/marianne-season-1-complete/",
       "name": "Marianne Season 1 [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/vORXihb6o0UvzHZfikBSD7H13Qk.jpg",
@@ -614,7 +614,7 @@
     {
       "id": 10052,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/snow-flake-dragon-2003/",
       "name": "နှင်းနဂါးသိုင်း ( 2003 ) ႏွင္းနဂါးသိုင္း ( 2003 ) ( Completed )",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/SD1.jpeg",
@@ -626,7 +626,7 @@
     {
       "id": 10053,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/leila-2019-season-1-complete/",
       "name": "Leila (2019) Season 1 [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/3aNWqC5icLY2f1Em6V174z1pKZS.jpg",
@@ -638,7 +638,7 @@
     {
       "id": 10054,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/boy-for-rent-2019/",
       "name": "Boy For Rent (2019)",
       "image": "https://image.tmdb.org/t/p/w185/gYlWu7ZxnVlpQaw0bUA0xj0AQkl.jpg",
@@ -650,7 +650,7 @@
     {
       "id": 10055,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/doctor-stranger-2014-completed/",
       "name": "Doctor Stranger ( 2014 ) ( Completed )",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/Doctor.jpg",
@@ -662,7 +662,7 @@
     {
       "id": 10056,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/watchmen-2019/",
       "name": "Watchmen (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/10/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
@@ -674,7 +674,7 @@
     {
       "id": 10057,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/daybreak-2019/",
       "name": "Daybreak (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/r0o7OBPCmRXJypYG8l6iFYUGD99.jpg",
@@ -686,7 +686,7 @@
     {
       "id": 10058,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/impulse-season-2/",
       "name": "Impulse Season (2)",
       "image": "https://image.tmdb.org/t/p/w185/sMZMj1gCDZA9eZzHpEmDMpQ0Iur.jpg",
@@ -698,7 +698,7 @@
     {
       "id": 10059,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/lost-in-space-season-2/",
       "name": "Lost in Space Season (2)",
       "image": "https://image.tmdb.org/t/p/w185/83mK4CnvRPFSqcyO3s3lq6aDy1x.jpg",
@@ -710,7 +710,7 @@
     {
       "id": 10060,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/lost-in-space-season-1/",
       "name": "Lost in Space Season (1)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/Lost-in-space-poster.jpg",
@@ -722,7 +722,7 @@
     {
       "id": 10061,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/lost-in-space-season-1/",
       "name": "Lost in Space Season (1)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/Lost-in-space-poster.jpg",
@@ -734,7 +734,7 @@
     {
       "id": 10062,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/vip-2019/",
       "name": "VIP (2019)[ Complete]",
       "image": "https://image.tmdb.org/t/p/w185/bBIiRnCVOifc1eaW7sCbJHSWJ68.jpg",
@@ -746,7 +746,7 @@
     {
       "id": 10063,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/high-seas-2019-season-2-complete/",
       "name": "High Seas (2019) Season 2 [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/lzrnCDxQDvciVPWH9idxKRNaLKk.jpg",
@@ -758,7 +758,7 @@
     {
       "id": 10064,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/miss-sherlock/",
       "name": "Miss Sherlock",
       "image": "https://channelmyanmar.org/wp-content/uploads/2018/05/4ISaQjmIfFM0aQqcduFcI8B8dZ4.jpg",
@@ -770,7 +770,7 @@
     {
       "id": 10065,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-rain-season-2-2019/",
       "name": "The Rain season 2 (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/9l2ZhuvcvC4BJagh4mkYZQlJulx.jpg",
@@ -782,7 +782,7 @@
     {
       "id": 10066,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/one-night-steal-2019/",
       "name": "One Night Steal (2019)",
       "image": "https://image.tmdb.org/t/p/w185/tH0jFBmIH9n8qO81RxIeQX5P5Do.jpg",
@@ -794,7 +794,7 @@
     {
       "id": 10067,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/almost-human2013/",
       "name": "Almost Human(2013)Season1[Complete]",
       "image": "https://image.tmdb.org/t/p/w185/a4E70yZs4m056i32Y4ZamtCd5iM.jpg",
@@ -806,7 +806,7 @@
     {
       "id": 10068,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/constantine-2014/",
       "name": "Constantine (2014)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/ajInpZ2BH6rf8tTdvgbhi09tCGg.jpg",
@@ -818,7 +818,7 @@
     {
       "id": 10069,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/catch-the-ghost-2019/",
       "name": "Catch The Ghost (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/10/zlyM7pjbFP9tI69zd02Un2g2EMf.jpg",
@@ -830,7 +830,7 @@
     {
       "id": 10070,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/pegasus-market2019/",
       "name": "Pegasus Market(2019)[Complete]",
       "image": "https://image.tmdb.org/t/p/w185/4W6OAnVNNEpZPUiUUaCljVXPgaq.jpg",
@@ -842,7 +842,7 @@
     {
       "id": 10071,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/journey-to-the-west-2000/",
       "name": "Journey To The West ( 2000 ) ( Completed )",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/11/xP5D3f.jpg",
@@ -854,7 +854,7 @@
     {
       "id": 10072,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/kengan-ashura-2019/",
       "name": "Kengan Ashura (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/12/u6MpSEaUlDEv7KCn49aHhtTQ43L.jpg",
@@ -866,7 +866,7 @@
     {
       "id": 10073,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-end-of-the-fing-world-season-2-2019/",
       "name": "The End of the F***ing World season 2 (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/11/vZQKQcB5n91c6tBofAVXq88Uuti.jpg",
@@ -878,7 +878,7 @@
     {
       "id": 10074,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/%e8%9b%8b%e9%bb%84%e4%ba%ba-yolk-man-2019/",
       "name": "蛋黄人 (Yolk Man) 2019",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/11/p9pVVv7G5jNUI1PQoF3emZztZ0.jpg",
@@ -890,7 +890,7 @@
     {
       "id": 10075,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-tale-of-nokdu2019/",
       "name": "The Tale of Nokdu(2019)[စ/ဆုံး]",
       "image": "https://image.tmdb.org/t/p/w185/r8BhphHIruCL2jM4sd1Zs6sMJov.jpg",
@@ -902,7 +902,7 @@
     {
       "id": 10076,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/vagabond2019/",
       "name": "Vagabond(2019) [စ / ဆုံး]",
       "image": "https://image.tmdb.org/t/p/w185/5E4DCXiU62LS0DpuFnK8B90uSRf.jpg",
@@ -914,7 +914,7 @@
     {
       "id": 10077,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/genius/",
       "name": "Genius",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/11/qatyfviXa0jWkv4lTJeApgrDcsr.jpg",
@@ -926,7 +926,7 @@
     {
       "id": 10078,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/feel-good-to-die2018/",
       "name": "Feel Good To Die(2018)[ စ/ဆုံး]",
       "image": "https://image.tmdb.org/t/p/w185/9FQ6dh021UJiBBZZQ6CUho4LfNE.jpg",
@@ -938,7 +938,7 @@
     {
       "id": 10079,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/my-next-guest-needs-no-introduction-with-david-letterman/",
       "name": "My Next Guest Needs No Introduction With David Letterman",
       "image": "https://image.tmdb.org/t/p/w185/5dObN91CjQPUhgQoEMbpmLTtxc8.jpg",
@@ -950,7 +950,7 @@
     {
       "id": 10080,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/baek-hee-has-returned-2016/",
       "name": "Baek Hee Has Returned ( 2016 )",
       "image": "https://image.tmdb.org/t/p/w185/fjPiN7ag2KpNolJ5nTiI89YNRcQ.jpg",
@@ -962,7 +962,7 @@
     {
       "id": 10081,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/ash-vs-evil-dead-complete/",
       "name": "Ash vs Evil Dead {Complete}",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/05/wkHStHo0l34FzuSoaBvLx7nItWC.jpg",
@@ -974,7 +974,7 @@
     {
       "id": 10082,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/parades-end2012/",
       "name": "Parade’s End(2012)[စ/ဆုံး]",
       "image": "https://image.tmdb.org/t/p/w185/nsXjptnRPmf6t34tmnTCXC2sxWY.jpg",
@@ -986,7 +986,7 @@
     {
       "id": 10083,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/power-rangers-wild-force/",
       "name": "Power Rangers : Wild Force {Complete}",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/10/PRWFpromo.jpg",
@@ -998,7 +998,7 @@
     {
       "id": 10084,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/krypton-season-2/",
       "name": "Krypton Season 2",
       "image": "https://image.tmdb.org/t/p/w185/uiinjmSkka6JOrk4FsZmrjlNM26.jpg",
@@ -1010,7 +1010,7 @@
     {
       "id": 10085,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/marvels-cloak-dagger-season-2/",
       "name": "Marvel’s Cloak & Dagger Season (2)",
       "image": "https://image.tmdb.org/t/p/w185/ryJHo3A6KuzqidoBFHxzSpAvjeu.jpg",
@@ -1022,7 +1022,7 @@
     {
       "id": 10086,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/trollhunters-tales-of-arcadia-2018/",
       "name": "Trollhunters: Tales of Arcadia",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/03/TH.jpg",
@@ -1034,7 +1034,7 @@
     {
       "id": 10087,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/faith-2012-complete/",
       "name": "Faith ( 2012 ) ( Complete )",
       "image": "https://image.tmdb.org/t/p/w185/o08kmKOuipbL1YTxAiF4Iccr2Uc.jpg",
@@ -1046,7 +1046,7 @@
     {
       "id": 10088,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/game-sanaeha-2018/",
       "name": "Game Sanaeha (2018)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/10/gam.jpg",
@@ -1058,7 +1058,7 @@
     {
       "id": 10089,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/rurouni-kenshin-trust-betrayal-1999/",
       "name": "Rurouni Kenshin: Trust & Betrayal (1999)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/10/vj9mKSDO6GFn22sKTLuvtrqt17g.jpg",
@@ -1070,7 +1070,7 @@
     {
       "id": 10090,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-dark-crystal-age-of-resistance-2019-season-1-complete/",
       "name": "The Dark Crystal: Age of Resistance (2019) Season 1 [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/rG6bC26xi10i8Mx0ZTyJ7nBkeWv.jpg",
@@ -1082,7 +1082,7 @@
     {
       "id": 10091,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-spy-2019-season-1-complete/",
       "name": "The Spy (2019) Season 1 [COMPLETE]",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/10/MV5BM2ZmYjUxZDYtMmZlMi00YjlkLTkwNTItMjcxZDRlOTI3ZTNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006751000_AL_.jpg",
@@ -1094,7 +1094,7 @@
     {
       "id": 10092,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/our-planet-2019/",
       "name": "Our Planet (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/10/MV5BN2I1ZjA5YjQtYmQ0ZS00ZmE1LTk1ZjktNTQ5ODIzY2JiZDdhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR006751000_AL_.jpg",
@@ -1106,7 +1106,7 @@
     {
       "id": 10093,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/supergirl-season-4/",
       "name": "Supergirl Season 4",
       "image": "https://image.tmdb.org/t/p/w185/vqBsgL9nd2v04ZvCqPzwtckDdFD.jpg",
@@ -1118,7 +1118,7 @@
     {
       "id": 10094,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-sand-princess-2019/",
       "name": "File Size : 400 MB\r\nQuality : 720p-HDTV\r\nFormat : mp4\r\nSubtitle : Myanmar Subtitle (Hardsub)\r\nTranslated by Kyi Nue Zin , Nang Mwe Kham\r\nEncoded by Naing Aung Latt",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/08/sand.jpg",
@@ -1130,7 +1130,7 @@
     {
       "id": 10095,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-terror-season-1-complete/",
       "name": "The Terror (season 1 complete)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/09/THE-TERROR-Season-1-Poster-1.jpg",
@@ -1142,7 +1142,7 @@
     {
       "id": 10096,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/strangers-from-hell-2019/",
       "name": "Strangers From Hell (2019)",
       "image": "https://image.tmdb.org/t/p/w185/yiW9Prv24gm4Ym9Woz4cUHLmCNI.jpg",
@@ -1154,7 +1154,7 @@
     {
       "id": 10097,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-haunting-of-hill-house/",
       "name": "The Haunting of Hill House {Complete}",
       "image": "https://channelmyanmar.org/wp-content/uploads/2018/10/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_SY1000_CR006741000_AL_.jpg",
@@ -1166,7 +1166,7 @@
     {
       "id": 10098,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-brave-2017/",
       "name": "The Brave (2017)[စ/ဆုံး]",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/09/p14153028_b_v8_aa.jpg",
@@ -1178,7 +1178,7 @@
     {
       "id": 10099,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/doctor-john2019/",
       "name": "Doctor John(2019)",
       "image": "https://image.tmdb.org/t/p/w185/2EtZ91FzsFRe3FFtAr29ESgW9QK.jpg",
@@ -1190,7 +1190,7 @@
     {
       "id": 10100,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/hotel-del-luna-2019/",
       "name": "Hotel Del Luna (2019) [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/kzBStHYRL20PeeKZ91ICuzqsevU.jpg",
@@ -1202,7 +1202,7 @@
     {
       "id": 10101,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/13-reasons-why-season-3-complete/",
       "name": "13 Reasons Why Season 3 [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/nel144y4dIOdFFid6twN5mAX9Yd.jpg",
@@ -1214,7 +1214,7 @@
     {
       "id": 10102,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/class-of-lies-2019/",
       "name": "Class of Lies (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/07/MV5BYWE1NGFhOTAtNDdiZi00ODJiLWE0OGItYWIxYjg5YWQyMzhhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SY1000_CR006611000_AL_.jpg",
@@ -1226,7 +1226,7 @@
     {
       "id": 10103,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/my-first-first-love-2019-season-1-2/",
       "name": "File size : 400 MB\r\nQuality : 720p-WebRip\r\nFormat : mp4\r\nSubtitle : Myanmar Subtitle (Hardsub)\r\nTranslated by Hnin Pale , Htet Nandar Aung , Kyi Nue Zin\r\nEncoded by Naing Aung Latt",
       "image": "https://image.tmdb.org/t/p/w185/oTE13yLKzpNfGxdUcyEV6Am4WP2.jpg",
@@ -1238,7 +1238,7 @@
     {
       "id": 10104,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/marvels-agents-of-s-h-i-e-l-d-season-6/",
       "name": "Marvel’s Agents of S.H.I.E.L.D. ( Season 3 & 4, ) ( Completed )",
       "image": "https://image.tmdb.org/t/p/w185/cXiETfFK1BTLest5fhTLfDLRdL6.jpg",
@@ -1250,7 +1250,7 @@
     {
       "id": 10105,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/sacred-games-season-2-complete/",
       "name": "Sacred Games Season 2 [COMPLETE]",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/08/MV5BMTU3MzQ3OTcwNF5BMl5BanBnXkFtZTgwMzc0NjQ0NTM@._V1_SY1000_CR006741000_AL_.jpg",
@@ -1262,7 +1262,7 @@
     {
       "id": 10106,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/sacred-games-2018/",
       "name": "Sacred Games (2018) Season 1 [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/mVQ6JFJCAMRLKvsMZdiEeYXC6cp.jpg",
@@ -1274,7 +1274,7 @@
     {
       "id": 10107,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/room-no-92018/",
       "name": "Room No. 9(2018)[စ/ဆုံး]",
       "image": "https://image.tmdb.org/t/p/w185/8jCKwe2AoFpnS2uiftmuCMjjdUb.jpg",
@@ -1286,7 +1286,7 @@
     {
       "id": 10108,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/the-fallen-leaf-2019/",
       "name": "File size : ( 500 MB )\r\nQuality : 720p-HDTV\r\nFormat : mp4\r\nSubtitle : Myanmar Subtitle (Hardsub)\r\nTranslated by Kyi Nue Zin , Nang Mwe\r\nEncoded by Naing Aung Latt",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/06/fa.jpg",
@@ -1298,7 +1298,7 @@
     {
       "id": 10109,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/money-heist2017season-2%e1%80%85-%e1%80%86%e1%80%af%e1%80%b6%e1%80%b8/",
       "name": "Money Heist(2017)Season 2[စ /ဆုံး]",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/08/29ae96fbac27ba75d1c0a8349ddb8746.jpg",
@@ -1310,7 +1310,7 @@
     {
       "id": 10110,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/wu-assassins-2019/",
       "name": "Wu Assassins (2019)",
       "image": "https://image.tmdb.org/t/p/w185/b3nMqPFY8skSfYLF3xEz8oQZxPa.jpg",
@@ -1322,7 +1322,7 @@
     {
       "id": 10111,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/swamp-thing-season-1/",
       "name": "Swamp Thing Season (1)",
       "image": "https://image.tmdb.org/t/p/w185/dD3HcMczLC9wNvfNzx4pZVyl6q8.jpg",
@@ -1334,7 +1334,7 @@
     {
       "id": 10112,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/dark-season-2-complete/",
       "name": "Dark Season 2 [COMPLETE] And Season 3",
       "image": "https://image.tmdb.org/t/p/w185/ajmkAwuK1TRFWMjKoSMgoAXbnc7.jpg",
@@ -1346,7 +1346,7 @@
     {
       "id": 10113,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/dark-2017-season-1-complete/",
       "name": "Dark (2017) Season 1 [COMPLETE]",
       "image": "https://image.tmdb.org/t/p/w185/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg",
@@ -1358,7 +1358,7 @@
     {
       "id": 10114,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/money-heist2017season-1%e1%80%85-%e1%80%86%e1%80%af%e1%80%b6%e1%80%b8/",
       "name": "Money Heist(2017)Season 1[စ /ဆုံး]",
       "image": "https://image.tmdb.org/t/p/w185/MoEKaPFHABtA1xKoOteirGaHl1.jpg",
@@ -1370,7 +1370,7 @@
     {
       "id": 10115,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/love-alert2018/",
       "name": "Love Alert(2018)[ စ / ဆုံး ]",
       "image": "https://image.tmdb.org/t/p/w185/4Ik8eefHAvBTOFKAXHgON9ZwtGf.jpg",
@@ -1382,7 +1382,7 @@
     {
       "id": 10116,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/typewriter-2019-season-1-complete/",
       "name": "Typewriter (2019) Season 1 [COMPLETE]",
       "image": "https://channelmyanmar.org/",
@@ -1394,7 +1394,7 @@
     {
       "id": 10117,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/search-www-2019/",
       "name": "File size : 550 MB\r\nQuality : 720p-HDTV\r\nFormat : mp4\r\nSubtitle : Myanmar Subtitle (Hardsub)\r\nTranslated by ThinZar Htet , Lwinlwin Aung , Htet Nandar Aung\r\nEncoded by Naing Aung Latt",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/06/www.jpg",
@@ -1406,7 +1406,7 @@
     {
       "id": 10118,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/money-heist/",
       "name": "Money Heist (Season 3)[Complete]",
       "image": "https://channelmyanmar.org/wp-content/uploads/2018/10/72e5c774a313d6d49b7b2970b4e0f253.jpg",
@@ -1418,7 +1418,7 @@
     {
       "id": 10119,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/high-seas-2019/",
       "name": "High Seas (2019)",
       "image": "https://channelmyanmar.org/wp-content/uploads/2019/07/7togbeeVXz4Pu0FJGWDh6DoS7yC.jpg",
@@ -1430,7 +1430,7 @@
     {
       "id": 10120,
       "detailsLink": "test",
-      "isSeries": true,
+      "isSeries": false,
       "link": "https://channelmyanmar.org/tvshows/chief-of-staff-2019/",
       "name": "Chief of Staff (2019)",
       "image": "https://image.tmdb.org/t/p/w185/lHR5MsSePpGtmO5lZR2QMl55JgD.jpg",
